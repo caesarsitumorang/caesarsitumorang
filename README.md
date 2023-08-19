@@ -1,7 +1,7 @@
 # Halo semua! 
 
 Perkenalkan nama saya **Caesar situmorang**.
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).
+saya mahasiswa sistem informasi di universitas katolik santo thomas medan
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/caesar-situmorang-95a618231/)ku ya.
 
 <p align="left">
