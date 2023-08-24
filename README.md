@@ -1,7 +1,7 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Caesar situmorang**.
-saya mahasiswa sistem informasi di universitas katolik santo thomas medan
+Perkenalkan nama saya **Caesar juanda situmorang**.
+saya peserta Bangkit Academy by Google,Goto dan Traveloka
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/caesar-situmorang-95a618231/)ku ya.
 
 <p align="left">
