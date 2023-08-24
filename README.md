@@ -1,8 +1,8 @@
 # Halo semua! 
 
 Perkenalkan nama saya **Caesar juanda situmorang**.
-saya peserta Bangkit Academy by Google,Goto dan Traveloka
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/caesar-situmorang-95a618231/)ku ya.
+**saya peserta Bangkit Academy by Google,Goto dan Traveloka
+**Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/caesar-situmorang-95a618231/)ku ya.
 
 <p align="left">
 <a href="https://github.com/gilangadhan">
