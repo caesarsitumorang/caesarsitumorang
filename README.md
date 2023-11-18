@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/caesar-juanda-situmorang target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caesar juanda situmorang" height="30" width="40" /></a>
+<a href="https://linkedin.com/https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BAVETqB2XTR6o%2F7BAkRIo1A%3D%3D target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caesar juanda situmorang" height="30" width="40" /></a>
 <a href="https://instagram.com/caesarsitumorang_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caesarsitumorang_" height="30" width="40" /></a>
 </p>
 
