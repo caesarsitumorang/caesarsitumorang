@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caesar Juanda Situmorang</h1>
-<h3 align="center">Mobile Development Cohort Bangkit Academy</h3>
+<h3 align="center">information systems student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caesarsitumorang&label=Profile%20views&color=0e75b6&style=flat" alt="caesarsitumorang" /> </p>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
