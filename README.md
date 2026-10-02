@@ -60,20 +60,6 @@
 </p>
 
 ---
-
-## 📊 Skills Overview
-
-| Language | Framework / Library | Area |
-| :-- | :-- | :-- |
-| **JavaScript** | React, Node.js, Express | Website & Backend |
-| **TypeScript** | Next.js | Website (Fullstack) |
-| **PHP** | Laravel, CodeIgniter | Website & Backend |
-| **Java** | Spring Boot | Backend |
-| **Kotlin** | Jetpack Compose | Mobile (Android) |
-| **Dart** | Flutter | Mobile (Cross-platform) |
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -89,14 +75,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=caesarsitumorang&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="95%" />
 
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=caesarsitumorang&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
 </div>
 
 ---
