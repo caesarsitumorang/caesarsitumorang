@@ -73,8 +73,11 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=caesarsitumorang&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="95%" />
-
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=caesarsitumorang&theme=tokyo-night&hide_border=true&area=true"
+  alt="GitHub Activity Graph"
+  width="95%"
+/>
 </div>
 
 ---
