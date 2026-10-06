@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=220&section=header&text=Caesar%20Juanda%20Situmorang&fontSize=44&fontColor=ffffff&fontAlignY=38" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0e75b6,100:6a11cb&amp;height=220&amp;section=header&amp;text=Caesar%20Juanda%20Situmorang&amp;fontSize=44&amp;fontColor=ffffff&amp;fontAlignY=38" alt="header" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Caesar+Juanda+Situmorang;Fullstack+Developer+%26+Analytics;Mobile+%7C+Website+%7C+Backend+Development;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Caesar+Juanda+Situmorang;Fullstack+%26+Analytics+Developer;Mobile+%7C+Website+%7C+Backend+Development;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,11 +17,14 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 **Position:** Fullstack Developer & Analytics
-- 📱 Focus on **Mobile**, **Website**, and **Backend Development**
-- 🌱 Always learning new technologies and best practices
-- 🧩 Love building clean, scalable, and maintainable systems
-- ⚡ **Fun fact:** I am Funny 😎
+<img align="right" alt="coding" width="380" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
+🔭 **Position:** Fullstack Developer & Analytics
+📱 Focus on **Mobile**, **Website**, and **Backend Development**
+🌱 Always learning new technologies and best practices
+🧩 Love building clean, scalable, and maintainable systems
+⚡ **Fun fact:** I am Funny 😎
+<br/><br/><br/>
 
 ---
 
@@ -56,7 +59,6 @@
 </p>
 
 ---
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -66,7 +68,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=caesarsitumorang&theme=tokyonight&hide_border=true" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=caesarsitumorang&theme=tokyonight&hide_border=true" alt="streak" />
 
 <br/>
 
@@ -78,7 +80,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ISI-USERNAME-LINKEDIN-KAMU" target="_blank">
+<a href="https://www.linkedin.com/in/USERNAME-LINKEDIN-KAMU" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="https://instagram.com/caesarsitumorang_" target="_blank">
