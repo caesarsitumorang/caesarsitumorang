@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=220&section=header&text=Caesar%20Juanda%20Situmorang&fontSize=44&fontColor=ffffff&fontAlignY=38" alt="header" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Caesar+Juanda+Situmorang;Fullstack+%26+Developer+Analytics;Mobile+%7C+Website+%7C+Backend+Development;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Caesar+Juanda+Situmorang;Fullstack+Developer+%26+Analytics;Mobile+%7C+Website+%7C+Backend+Development;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
