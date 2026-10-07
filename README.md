@@ -26,11 +26,39 @@
 - 📊 **Analytics:** Data reporting, dashboards, and operational insight
 - 🌱 Always learning new technologies and best practices
 - 🧩 Building clean, scalable, and maintainable systems
+- 📍 **Based in:** Medan, Indonesia 🇮🇩
 - ⚡ **Fun fact:** I am Funny 😎
 
 </td>
 <td width="40%" align="center" valign="middle">
 <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="100%" alt="coding" />
+</td>
+</tr>
+</table>
+
+## 🚀 What I Do
+
+<table width="100%">
+<tr>
+<td width="25%" align="center" valign="top">
+<img src="https://skillicons.dev/icons?i=flutter,kotlin" alt="mobile" /><br/>
+<b>📱 Mobile</b><br/>
+<sub>Android & cross-platform apps with Flutter, Kotlin, and Jetpack Compose</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<img src="https://skillicons.dev/icons?i=react,nextjs" alt="web" /><br/>
+<b>🌐 Website</b><br/>
+<sub>Responsive, modern web apps with React and Next.js</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<img src="https://skillicons.dev/icons?i=laravel,nodejs" alt="backend" /><br/>
+<b>⚙️ Backend</b><br/>
+<sub>REST APIs and server logic with Laravel, Express, and Spring</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<img src="https://skillicons.dev/icons?i=mysql,py" alt="analytics" /><br/>
+<b>📊 Analytics</b><br/>
+<sub>Data reporting, dashboards, and insights from operational data</sub>
 </td>
 </tr>
 </table>
@@ -62,34 +90,9 @@
 
 ## 📈 GitHub Analytics
 
-<table width="100%">
-<tr>
-<td colspan="2" align="center">
-<a href="https://github.com/caesarsitumorang"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caesarsitumorang&theme=tokyonight" width="100%" alt="profile details" /></a>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/caesarsitumorang"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caesarsitumorang&theme=tokyonight" width="100%" alt="stats" /></a>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/caesarsitumorang"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caesarsitumorang&theme=tokyonight&utcOffset=7" width="100%" alt="productive time" /></a>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/caesarsitumorang?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caesarsitumorang&theme=tokyonight" width="100%" alt="repos per language" /></a>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/caesarsitumorang?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caesarsitumorang&theme=tokyonight" width="100%" alt="most commit language" /></a>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<a href="https://github.com/caesarsitumorang"><img src="https://streak-stats.demolab.com/?user=caesarsitumorang&theme=tokyonight&hide_border=true&card_width=900" width="100%" alt="streak" /></a>
-</td>
-</tr>
-</table>
+<a href="https://github.com/caesarsitumorang">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caesarsitumorang&theme=tokyonight" width="100%" alt="profile details" />
+</a>
 
 ## 🤝 Connect With Me
 
@@ -98,5 +101,9 @@
 <a href="https://www.linkedin.com/in/USERNAME-LINKEDIN-KAMU" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="https://instagram.com/caesarsitumorang_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
 <a href="https://github.com/caesarsitumorang" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+
+<a href="https://github.com/caesarsitumorang">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Thanks+for+visiting!+%E2%AD%90+Feel+free+to+explore+my+repositories" width="100%" alt="thanks" />
+</a>
 
 </div>
