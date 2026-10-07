@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=200&section=header&text=Caesar%20Juanda%20Situmorang&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Fullstack%20%26%20Analytics%20Developer&descAlignY=58&descSize=18" width="100%" alt="header" />
+<a href="https://github.com/caesarsitumorang">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=100000&color=6A11CB&center=true&vCenter=true&width=900&height=80&lines=Caesar+Juanda+Situmorang" width="100%" alt="Caesar Juanda Situmorang" />
+</a>
 
 <a href="https://github.com/caesarsitumorang">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Caesar+Juanda+Situmorang;Fullstack+%26+Analytics+Developer;Mobile+%7C+Website+%7C+Backend+Development;Turning+ideas+into+real+products+%F0%9F%9A%80" width="100%" alt="typing" />
@@ -89,12 +91,6 @@
 </tr>
 </table>
 
-## 📊 Contribution Activity
-
-<a href="https://github.com/caesarsitumorang">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=caesarsitumorang&theme=tokyo-night&hide_border=true&area=true&custom_title=Caesar's%20Contribution%20Graph" width="100%" alt="activity graph" />
-</a>
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -102,7 +98,5 @@
 <a href="https://www.linkedin.com/in/USERNAME-LINKEDIN-KAMU" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="https://instagram.com/caesarsitumorang_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
 <a href="https://github.com/caesarsitumorang" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0e75b6&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
