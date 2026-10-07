@@ -1,109 +1,108 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=220&section=header&text=Caesar%20Juanda%20Situmorang&fontSize=44&fontColor=ffffff&fontAlignY=38" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=200&section=header&text=Caesar%20Juanda%20Situmorang&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Fullstack%20%26%20Analytics%20Developer&descAlignY=58&descSize=18" width="100%" alt="header" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Caesar+Juanda+Situmorang;Fullstack+%26+Analytics+Developer;Mobile+%7C+Website+%7C+Backend+Development;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing SVG" />
+<a href="https://github.com/caesarsitumorang">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Caesar+Juanda+Situmorang;Fullstack+%26+Analytics+Developer;Mobile+%7C+Website+%7C+Backend+Development;Turning+ideas+into+real+products+%F0%9F%9A%80" width="100%" alt="typing" />
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=caesarsitumorang&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/caesarsitumorang?style=for-the-badge&logo=github&color=6a11cb" alt="followers" />
+<a href="https://github.com/caesarsitumorang"><img src="https://komarev.com/ghpvc/?username=caesarsitumorang&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views" /></a>
+<a href="https://github.com/caesarsitumorang?tab=followers"><img src="https://img.shields.io/github/followers/caesarsitumorang?style=for-the-badge&logo=github&color=6a11cb&label=Followers" alt="followers" /></a>
+<a href="https://github.com/caesarsitumorang?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcaesarsitumorang&query=%24.public_repos&style=for-the-badge&logo=github&label=Repos&color=0e75b6" alt="repos" /></a>
+<a href="https://github.com/caesarsitumorang?tab=stars"><img src="https://img.shields.io/github/stars/caesarsitumorang?affiliations=OWNER&style=for-the-badge&logo=github&color=6a11cb&label=Stars" alt="stars" /></a>
 
 </div>
-
----
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="coding" width="380" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
 - 🔭 **Position:** Fullstack Developer & Analytics
-- 📱 Focus on **Mobile**, **Website**, and **Backend Development**
+- 📱 **Focus:** Mobile, Website, and Backend Development
+- 📊 **Analytics:** Data reporting, dashboards, and operational insight
 - 🌱 Always learning new technologies and best practices
-- 🧩 Love building clean, scalable, and maintainable systems
+- 🧩 Building clean, scalable, and maintainable systems
 - ⚡ **Fun fact:** I am Funny 😎
 
-<br clear="right" />
-
----
+</td>
+<td width="40%" align="center" valign="middle">
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="100%" alt="coding" />
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td><b>🌐 JavaScript / TypeScript</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express" alt="javascript typescript" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>🐘 PHP</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=php,laravel,codeigniter" alt="php" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>☕ Java & Kotlin</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=java,spring,kotlin,androidstudio" alt="java kotlin" />
-      <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="jetpack compose" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>📱 Dart</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=dart,flutter" alt="dart flutter" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>🗄️ Database & Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql,git,github,figma,vscode" alt="tools" />
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+<td width="22%"><b>🌐 JavaScript / TypeScript</b></td>
+<td><img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,html,css" alt="js ts" /></td>
+</tr>
+<tr>
+<td><b>🐘 PHP</b></td>
+<td><img src="https://skillicons.dev/icons?i=php,laravel,codeigniter" alt="php" /></td>
+</tr>
+<tr>
+<td><b>☕ Java & Kotlin</b></td>
+<td><img src="https://skillicons.dev/icons?i=java,spring,kotlin,androidstudio" alt="java kotlin" /> <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" height="48" alt="compose" /></td>
+</tr>
+<tr>
+<td><b>📱 Dart</b></td>
+<td><img src="https://skillicons.dev/icons?i=dart,flutter,firebase" alt="dart flutter" /></td>
+</tr>
+<tr>
+<td><b>🗄️ Database & Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,figma,vscode,postman" alt="tools" /></td>
+</tr>
 </table>
 
----
+## 📈 GitHub Analytics
 
-## 📈 GitHub Stats
+<table width="100%">
+<tr>
+<td colspan="2" align="center">
+<a href="https://github.com/caesarsitumorang"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caesarsitumorang&theme=tokyonight" width="100%" alt="profile details" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/caesarsitumorang"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caesarsitumorang&theme=tokyonight" width="100%" alt="stats" /></a>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/caesarsitumorang"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caesarsitumorang&theme=tokyonight&utcOffset=7" width="100%" alt="productive time" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/caesarsitumorang?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caesarsitumorang&theme=tokyonight" width="100%" alt="repos per language" /></a>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/caesarsitumorang?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caesarsitumorang&theme=tokyonight" width="100%" alt="most commit language" /></a>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<a href="https://github.com/caesarsitumorang"><img src="https://streak-stats.demolab.com/?user=caesarsitumorang&theme=tokyonight&hide_border=true&card_width=900" width="100%" alt="streak" /></a>
+</td>
+</tr>
+</table>
 
-<div align="center">
+## 📊 Contribution Activity
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=caesarsitumorang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caesarsitumorang&layout=donut-vertical&langs_count=10&theme=tokyonight&hide_border=true" alt="top langs" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=caesarsitumorang&theme=tokyonight&hide_border=true" alt="streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=caesarsitumorang&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=caesarsitumorang&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%" />
-
-</div>
-
----
+<a href="https://github.com/caesarsitumorang">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=caesarsitumorang&theme=tokyo-night&hide_border=true&area=true&custom_title=Caesar's%20Contribution%20Graph" width="100%" alt="activity graph" />
+</a>
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/USERNAME-LINKEDIN-KAMU" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-<a href="https://instagram.com/caesarsitumorang_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-</a>
-<a href="https://github.com/caesarsitumorang" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-</a>
+<a href="https://www.linkedin.com/in/USERNAME-LINKEDIN-KAMU" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://instagram.com/caesarsitumorang_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
+<a href="https://github.com/caesarsitumorang" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0e75b6&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0e75b6&height=120&section=footer" alt="footer" width="100%" />
