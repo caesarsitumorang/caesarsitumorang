@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0e75b6,100:6a11cb&amp;height=220&amp;section=header&amp;text=Caesar%20Juanda%20Situmorang&amp;fontSize=44&amp;fontColor=ffffff&amp;fontAlignY=38" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=220&section=header&text=Caesar%20Juanda%20Situmorang&fontSize=44&fontColor=ffffff&fontAlignY=38" alt="header" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Caesar+Juanda+Situmorang;Fullstack+%26+Analytics+Developer;Mobile+%7C+Website+%7C+Backend+Development;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=caesarsitumorang&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
 <img src="https://img.shields.io/github/followers/caesarsitumorang?style=for-the-badge&logo=github&color=6a11cb" alt="followers" />
@@ -17,60 +17,74 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="coding" width="380" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="coding" width="380" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 
-🔭 **Position:** Fullstack Developer & Analytics
-📱 Focus on **Mobile**, **Website**, and **Backend Development**
-🌱 Always learning new technologies and best practices
-🧩 Love building clean, scalable, and maintainable systems
-⚡ **Fun fact:** I am Funny 😎
-<br/><br/><br/>
+- 🔭 **Position:** Fullstack Developer & Analytics
+- 📱 Focus on **Mobile**, **Website**, and **Backend Development**
+- 🌱 Always learning new technologies and best practices
+- 🧩 Love building clean, scalable, and maintainable systems
+- ⚡ **Fun fact:** I am Funny 😎
+
+<br clear="right" />
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 JavaScript / TypeScript
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express" alt="javascript" />
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts,nextjs" alt="typescript" />
-</p>
-
-### 🐘 PHP
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,codeigniter" alt="php" />
-</p>
-
-### ☕ Java & Kotlin
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,androidstudio" alt="java kotlin" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="jetpack compose" />
-</p>
-
-### 📱 Dart
-<p>
-  <img src="https://skillicons.dev/icons?i=dart,flutter" alt="dart flutter" />
-</p>
-
-### 🗄️ Database & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,figma,vscode" alt="tools" />
-</p>
+<table>
+  <tr>
+    <td><b>🌐 JavaScript / TypeScript</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express" alt="javascript typescript" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🐘 PHP</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=php,laravel,codeigniter" alt="php" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>☕ Java & Kotlin</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,spring,kotlin,androidstudio" alt="java kotlin" />
+      <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="jetpack compose" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>📱 Dart</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=dart,flutter" alt="dart flutter" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🗄️ Database & Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,git,github,figma,vscode" alt="tools" />
+    </td>
+  </tr>
+</table>
 
 ---
+
 ## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=caesarsitumorang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caesarsitumorang&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=caesarsitumorang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caesarsitumorang&layout=donut-vertical&langs_count=10&theme=tokyonight&hide_border=true" alt="top langs" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=caesarsitumorang&theme=tokyonight&hide_border=true" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=caesarsitumorang&theme=tokyonight&hide_border=true" alt="streak" />
 
-<br/>
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=caesarsitumorang&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=caesarsitumorang&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%" />
 
 </div>
 
